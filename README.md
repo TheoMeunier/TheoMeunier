@@ -48,7 +48,6 @@ I enjoy building clean, efficient, and scalable web applications, from APIs to u
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />
 </p>
 
----
 
 ## 🌐 Socials
 
@@ -60,7 +59,3 @@ I enjoy building clean, efficient, and scalable web applications, from APIs to u
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
   </a>
 </p>
-
----
-
-⭐️ *Feel free to check out my projects and get in touch!*
