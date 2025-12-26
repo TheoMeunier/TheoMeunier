@@ -5,7 +5,6 @@
 I’m a **Backend Developer** with solid experience in **web integration** (JavaScript, HTML, CSS).  
 I enjoy building clean, efficient, and scalable web applications, from APIs to user interfaces.
 
----
 
 ## 🚀 About Me
 
@@ -14,20 +13,15 @@ I enjoy building clean, efficient, and scalable web applications, from APIs to u
 - ✉️ Contact: [contact@theomeunier.fr](mailto:contact@theomeunier.fr)
 - 💡 Interested in backend architecture, performance, and developer tools
 
----
 
 ## 🧩 Featured Projects
 
-- **[Codetips](https://codetips.io)**  
-  A blog platform to share development tips and best practices.
+- **[Codetips](https://codetips.io)**  A blog platform to share development tips and best practices.
 
-- **[Filesox](https://github.com/TheoMeunier/filesox)**  
-  A file manager for sharing files with your server or friends, and much more.
+- **[Filesox](https://github.com/TheoMeunier/filesox)**  A file manager for sharing files with your server or friends, and much more.
 
-- **[Uptime Kotlin](https://github.com/TheoMeunier/uptime-kotlin)**  
-  A monitoring tool to track the uptime of your websites.
+- **[Uptime Kotlin](https://github.com/TheoMeunier/uptime-kotlin)**  A monitoring tool to track the uptime of your websites.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +35,7 @@ I enjoy building clean, efficient, and scalable web applications, from APIs to u
 
 ### DevOps & Tools
 - Docker
+- kubernetes
 - Linux
 
 <p align="left">
